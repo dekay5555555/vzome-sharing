@@ -2,6 +2,7 @@
 title: 10 yellow 6 purple faces only
 image: https://dekay5555555.github.io/vzome-sharing/2022/02/16/21-46-27-10 yellow 6 purple faces only/10 yellow 6 purple faces only.png
 layout: vzome
+published: false
 ---
 
 {% comment %}
