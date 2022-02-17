@@ -1,5 +1,5 @@
 ---
-title: tetinside√phicuboid
+title: Tetrahedron Inside √Φ Cuboid
 image: https://dekay5555555.github.io/vzome-sharing/2022/02/16/22-59-17-tetinside√phicuboid/tetinside√phicuboid.png
 layout: vzome
 ---
@@ -16,3 +16,5 @@ layout: vzome
        src="https://dekay5555555.github.io/vzome-sharing/2022/02/16/22-59-17-tetinside√phicuboid/tetinside√phicuboid.vZome" >
   <img src="https://dekay5555555.github.io/vzome-sharing/2022/02/16/22-59-17-tetinside√phicuboid/tetinside√phicuboid.png" />
 </vzome-viewer>
+I embellished the green & blue lines which were white.
+The green are √2 and the blue are Φ, when the edges of the cuboid are Φ-1 and 1
